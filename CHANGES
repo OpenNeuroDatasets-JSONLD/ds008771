@@ -1,3 +1,5 @@
+1.0.5 2026-10-19
+  - Add missing reverse phase-encoding (revpe) b0 files
 1.0.4 2026-10-03
   - Update Acknowledgements with Imaging Neuroscience DOI
 1.0.3 2026-09-03

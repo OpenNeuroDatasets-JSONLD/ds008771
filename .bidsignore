@@ -1,0 +1,5 @@
+*.corrected_bval
+*.mat
+.Rhistory
+/sub-06/ses-01/dwi/sub-06_ses-01_acq-b0_dir-AP_part-phase_dwi.nii.gz
+/sub-06/ses-01/dwi/sub-06_ses-01_acq-b0_dir-AP_part-mag_dwi.nii.gz
